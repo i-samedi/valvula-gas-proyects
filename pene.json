@@ -1,0 +1,33 @@
+[
+    {
+      "Id": 1,
+      "Temperatura": 25,
+      "gasMQ6": 20,
+      "gasMQ7": 80
+    },
+    {
+      "Id": 2,
+      "Temperatura": 20,
+      "gasMQ6": 32,
+      "gasMQ7": 100
+    },
+    {
+      "Id": 3,
+      "Temperatura": 30,
+      "gasMQ6": 40,
+      "gasMQ7": 90
+    },
+    {
+      "Id": 4,
+      "Temperatura": 22,
+      "gasMQ6": 25,
+      "gasMQ7": 200
+    },
+    {
+      "Id": 5,
+      "Temperatura": 28,
+      "gasMQ6": 36,
+      "gasMQ7": 110
+    }
+  ]
+  
